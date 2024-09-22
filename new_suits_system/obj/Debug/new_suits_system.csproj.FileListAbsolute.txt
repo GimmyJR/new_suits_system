@@ -1,0 +1,196 @@
+C:\Users\ELSERAG\Desktop\New folder\new_suits_system\new_suits_system\bin\Debug\new_suits_system.exe.config
+C:\Users\ELSERAG\Desktop\New folder\new_suits_system\new_suits_system\bin\Debug\new_suits_system.exe
+C:\Users\ELSERAG\Desktop\New folder\new_suits_system\new_suits_system\bin\Debug\new_suits_system.pdb
+C:\Users\ELSERAG\Desktop\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.csproj.AssemblyReference.cache
+C:\Users\ELSERAG\Desktop\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_LOGIN.resources
+C:\Users\ELSERAG\Desktop\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.Properties.Resources.resources
+C:\Users\ELSERAG\Desktop\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.csproj.GenerateResource.cache
+C:\Users\ELSERAG\Desktop\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.csproj.CoreCompileInputs.cache
+C:\Users\ELSERAG\Desktop\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.exe
+C:\Users\ELSERAG\Desktop\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.pdb
+C:\Users\ELSERAG\Desktop\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_MAIN.resources
+C:\Users\ELSERAG\Desktop\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_ADD_PRODUCT.resources
+C:\Users\ELSERAG\Desktop\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_rent.resources
+C:\Users\ELSERAG\Desktop\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_PRODUCTS_LIST.resources
+E:\7amo\new_suits_system\new_suits_system\bin\Debug\new_suits_system.exe.config
+E:\7amo\new_suits_system\new_suits_system\bin\Debug\new_suits_system.exe
+E:\7amo\new_suits_system\new_suits_system\bin\Debug\new_suits_system.pdb
+E:\7amo\new_suits_system\new_suits_system\obj\Debug\new_suits_system.csproj.AssemblyReference.cache
+E:\7amo\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_ADD_PRODUCT.resources
+E:\7amo\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_LOGIN.resources
+E:\7amo\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_MAIN.resources
+E:\7amo\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_PRODUCTS_LIST.resources
+E:\7amo\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_rent.resources
+E:\7amo\new_suits_system\new_suits_system\obj\Debug\new_suits_system.Properties.Resources.resources
+E:\7amo\new_suits_system\new_suits_system\obj\Debug\new_suits_system.csproj.GenerateResource.cache
+E:\7amo\new_suits_system\new_suits_system\obj\Debug\new_suits_system.csproj.CoreCompileInputs.cache
+E:\7amo\new_suits_system\new_suits_system\obj\Debug\new_suits_system.exe
+E:\7amo\new_suits_system\new_suits_system\obj\Debug\new_suits_system.pdb
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\bin\Debug\new_suits_system.exe.config
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\bin\Debug\new_suits_system.exe
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\bin\Debug\new_suits_system.pdb
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.csproj.AssemblyReference.cache
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_ADD_PRODUCT.resources
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_LOGIN.resources
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_MAIN.resources
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_PRODUCTS_LIST.resources
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_rent.resources
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.Properties.Resources.resources
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.csproj.GenerateResource.cache
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.csproj.CoreCompileInputs.cache
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.exe
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.pdb
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\bin\Debug\stdole.dll
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.csproj.CopyComplete
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.RPT.FRM_RPT.resources
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.frm_orders_list.resources
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_REM.resources
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_GENRATE_BARCODE.resources
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_SELL.resources
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.tdy_rpt.resources
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\bin\Debug\new_suits_system.exe.manifest
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\bin\Debug\new_suits_system.application
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.TrustInfo.xml
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.exe.manifest
+C:\Users\ELSERAG\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.application
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\bin\Debug\new_suits_system.exe.config
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\bin\Debug\new_suits_system.exe.manifest
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\bin\Debug\new_suits_system.application
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\bin\Debug\new_suits_system.exe
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\bin\Debug\new_suits_system.pdb
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\bin\Debug\stdole.dll
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.csproj.AssemblyReference.cache
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_ADD_PRODUCT.resources
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_GENRATE_BARCODE.resources
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_LOGIN.resources
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_MAIN.resources
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.frm_orders_list.resources
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_PRODUCTS_LIST.resources
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_REM.resources
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_rent.resources
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_SELL.resources
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.tdy_rpt.resources
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.Properties.Resources.resources
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.RPT.FRM_RPT.resources
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.csproj.GenerateResource.cache
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.csproj.CoreCompileInputs.cache
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.TrustInfo.xml
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.exe.manifest
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.application
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.csproj.CopyComplete
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.exe
+C:\Users\khorshed\Desktop\new_suits_system\new_suits_system\obj\Debug\new_suits_system.pdb
+D:\new_suits_system\new_suits_system\bin\Debug\new_suits_system.exe.config
+D:\new_suits_system\new_suits_system\bin\Debug\new_suits_system.exe.manifest
+D:\new_suits_system\new_suits_system\bin\Debug\new_suits_system.application
+D:\new_suits_system\new_suits_system\bin\Debug\new_suits_system.exe
+D:\new_suits_system\new_suits_system\bin\Debug\new_suits_system.pdb
+D:\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.Shared.dll
+D:\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\new_suits_system\new_suits_system\bin\Debug\stdole.dll
+D:\new_suits_system\new_suits_system\obj\Debug\new_suits_system.csproj.AssemblyReference.cache
+D:\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_ADD_PRODUCT.resources
+D:\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_GENRATE_BARCODE.resources
+D:\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_LOGIN.resources
+D:\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_MAIN.resources
+D:\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.frm_orders_list.resources
+D:\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_PRODUCTS_LIST.resources
+D:\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_REM.resources
+D:\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_rent.resources
+D:\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_SELL.resources
+D:\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.tdy_rpt.resources
+D:\new_suits_system\new_suits_system\obj\Debug\new_suits_system.Properties.Resources.resources
+D:\new_suits_system\new_suits_system\obj\Debug\new_suits_system.RPT.FRM_RPT.resources
+D:\new_suits_system\new_suits_system\obj\Debug\new_suits_system.csproj.GenerateResource.cache
+D:\new_suits_system\new_suits_system\obj\Debug\new_suits_system.csproj.CoreCompileInputs.cache
+D:\new_suits_system\new_suits_system\obj\Debug\new_suits_system.TrustInfo.xml
+D:\new_suits_system\new_suits_system\obj\Debug\new_suits_system.exe.manifest
+D:\new_suits_system\new_suits_system\obj\Debug\new_suits_system.application
+D:\new_suits_system\new_suits_system\obj\Debug\new_suits_system.csproj.CopyComplete
+D:\new_suits_system\new_suits_system\obj\Debug\new_suits_system.exe
+D:\new_suits_system\new_suits_system\obj\Debug\new_suits_system.pdb
+D:\فلاشة\New folder\new_suits_system\new_suits_system\bin\Debug\new_suits_system.exe.config
+D:\فلاشة\New folder\new_suits_system\new_suits_system\bin\Debug\new_suits_system.exe.manifest
+D:\فلاشة\New folder\new_suits_system\new_suits_system\bin\Debug\new_suits_system.application
+D:\فلاشة\New folder\new_suits_system\new_suits_system\bin\Debug\new_suits_system.exe
+D:\فلاشة\New folder\new_suits_system\new_suits_system\bin\Debug\new_suits_system.pdb
+D:\فلاشة\New folder\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\فلاشة\New folder\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\فلاشة\New folder\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\فلاشة\New folder\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\فلاشة\New folder\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\فلاشة\New folder\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\فلاشة\New folder\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\فلاشة\New folder\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\فلاشة\New folder\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\فلاشة\New folder\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\فلاشة\New folder\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\فلاشة\New folder\new_suits_system\new_suits_system\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\فلاشة\New folder\new_suits_system\new_suits_system\bin\Debug\stdole.dll
+D:\فلاشة\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.csproj.AssemblyReference.cache
+D:\فلاشة\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_ADD_PRODUCT.resources
+D:\فلاشة\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_GENRATE_BARCODE.resources
+D:\فلاشة\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_LOGIN.resources
+D:\فلاشة\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_MAIN.resources
+D:\فلاشة\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.frm_orders_list.resources
+D:\فلاشة\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_PRODUCTS_LIST.resources
+D:\فلاشة\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_REM.resources
+D:\فلاشة\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_rent.resources
+D:\فلاشة\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.FRM_SELL.resources
+D:\فلاشة\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.PL.tdy_rpt.resources
+D:\فلاشة\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.Properties.Resources.resources
+D:\فلاشة\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.RPT.FRM_RPT.resources
+D:\فلاشة\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.csproj.GenerateResource.cache
+D:\فلاشة\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.csproj.CoreCompileInputs.cache
+D:\فلاشة\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.TrustInfo.xml
+D:\فلاشة\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.exe.manifest
+D:\فلاشة\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.application
+D:\فلاشة\New folder\new_suits_system\new_suits_system\obj\Debug\new_suit.9EAD1340.Up2Date
+D:\فلاشة\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.exe
+D:\فلاشة\New folder\new_suits_system\new_suits_system\obj\Debug\new_suits_system.pdb

@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CE04FEB9-E3FC-4658-9E9D-37ADC7BA1309}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>new_suits_system</RootNamespace>
+    <AssemblyName>new_suits_system</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\ELSERAG\Desktop\WebSite\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>A7AB323FEF7A04D45F25F205B3B51ADAADECF3B2</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>new_suits_system_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BL\block.cs" />
+    <Compile Include="BL\CLS_LOGIN.cs" />
+    <Compile Include="BL\CLS_PRODUCT.cs" />
+    <Compile Include="BL\CLS_RENT.cs" />
+    <Compile Include="BL\CLS_SELL.cs" />
+    <Compile Include="BL\rprt.cs" />
+    <Compile Include="DAL\DataAccessLayer.cs" />
+    <Compile Include="PL\FRM_ADD_PRODUCT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FRM_ADD_PRODUCT.Designer.cs">
+      <DependentUpon>FRM_ADD_PRODUCT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FRM_GENRATE_BARCODE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FRM_GENRATE_BARCODE.Designer.cs">
+      <DependentUpon>FRM_GENRATE_BARCODE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FRM_LOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FRM_LOGIN.Designer.cs">
+      <DependentUpon>FRM_LOGIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FRM_MAIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FRM_MAIN.Designer.cs">
+      <DependentUpon>FRM_MAIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\frm_orders_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\frm_orders_list.Designer.cs">
+      <DependentUpon>frm_orders_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FRM_PRODUCTS_LIST.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FRM_PRODUCTS_LIST.Designer.cs">
+      <DependentUpon>FRM_PRODUCTS_LIST.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FRM_REM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FRM_REM.Designer.cs">
+      <DependentUpon>FRM_REM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FRM_rent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FRM_rent.Designer.cs">
+      <DependentUpon>FRM_rent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FRM_SELL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FRM_SELL.Designer.cs">
+      <DependentUpon>FRM_SELL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\tdy_rpt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\tdy_rpt.Designer.cs">
+      <DependentUpon>tdy_rpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RPT\CrystalReport1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RPT\FRM_RPT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT\FRM_RPT.Designer.cs">
+      <DependentUpon>FRM_RPT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RPT\sell_fatora.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sell_fatora.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="PL\FRM_ADD_PRODUCT.resx">
+      <DependentUpon>FRM_ADD_PRODUCT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FRM_GENRATE_BARCODE.resx">
+      <DependentUpon>FRM_GENRATE_BARCODE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FRM_LOGIN.resx">
+      <DependentUpon>FRM_LOGIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FRM_MAIN.resx">
+      <DependentUpon>FRM_MAIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\frm_orders_list.resx">
+      <DependentUpon>frm_orders_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FRM_PRODUCTS_LIST.resx">
+      <DependentUpon>FRM_PRODUCTS_LIST.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FRM_REM.resx">
+      <DependentUpon>FRM_REM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FRM_rent.resx">
+      <DependentUpon>FRM_rent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FRM_SELL.resx">
+      <DependentUpon>FRM_SELL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\tdy_rpt.resx">
+      <DependentUpon>tdy_rpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RPT\CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT\FRM_RPT.resx">
+      <DependentUpon>FRM_RPT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT\sell_fatora.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>sell_fatora.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="new_suits_system_TemporaryKey.pfx" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.8">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.8 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
